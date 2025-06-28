@@ -34,5 +34,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/heart-disease-prediction.git
+   git clone https://github.com/Govind127/heart-disease-prediction.git
    cd heart-disease-prediction
